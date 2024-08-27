@@ -1,7 +1,8 @@
 
-void setup(){
-  size (300,300);}
-void draw(){
+void setup()  {
+  size (300,300);
+}
+void draw()  {
 ellipse (40,110,55,90);
 ellipse (40,80,80,40);
 circle (40,40,40);
